@@ -1,0 +1,1 @@
+# networkmanager-dispatcher-chrony
